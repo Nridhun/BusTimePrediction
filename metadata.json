@@ -1,0 +1,6 @@
+{
+  "name": "KozhiBus Live - Kozhikode Bus Tracking & Transit Planner",
+  "description": "High-fidelity Kozhikode bus schedule search, 24-hour departure slots, ML-predicted delay breakdown, and interactive real-time animated bus tracking map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
